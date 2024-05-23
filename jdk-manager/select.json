@@ -14,16 +14,7 @@
         "full_name": "jdk-manager",
         "version": "1.0.1",
         "url":"https://github.com/bivshell/pkgs/raw/main/jdk-manager/jdk-manager@1.0.1.zip",
-        "size":"16MB"
-         
-    },
-      {
-        "name": "jdk",
-        "command": "jdk",
-        "full_name": "jdk-manager",
-        "version": "1.0.2",
-        "url":"https://github.com/bivshell/pkgs/raw/main/jdk-manager/jdk-manager@1.0.2.zip",
-        "size":"18MB"
+        "size":"15MB"
          
     }
 ]
