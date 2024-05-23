@@ -1,1 +1,13 @@
 
+
+[
+    {
+        "name": "jdk_18",
+        "full_name": "Java SE 18",
+        "version": "18",
+        "url":"https://github.com/bivshell/pkgs/raw/main/jdk-manager/jdk-manager@1.0.0.zip",
+        "size":"117MB"
+         
+    }
+   
+]
