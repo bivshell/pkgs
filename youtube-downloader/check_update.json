@@ -1,5 +1,5 @@
 {
-    "is_required": true,
+    "is_required": false,
     "version": "1.0.1",
     "or_superior": true
 }
